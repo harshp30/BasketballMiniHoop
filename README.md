@@ -2,6 +2,10 @@
 
 October 2020
 
+Youtube Demonstration: https://www.youtube.com/watch?v=VsOM16-T-PU
+
+Pictures Link: https://drive.google.com/drive/u/2/folders/1ssZ8SuUYN1haxjPsAh7jhmlVfP83LuEI
+
 Time: approximately 8 hours
 
 Price: approximately $40
