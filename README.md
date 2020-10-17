@@ -37,3 +37,7 @@ This project was very helpful is learning how to coordinate various sensors toge
 Putting together another system such as this was very difficult but also rewarding.
 The coplexity of taking into different ways the ball can go into hoop really tested by critical thinking and pushed me to be creative with the code.
 
+Possible Improvements:
+
+The Distance Sensor could have been better projected since a lot of the time the ball is directly hitting the sensor shifting it slightly. maybe a little projective casing would have helped to make it more secure.
+
