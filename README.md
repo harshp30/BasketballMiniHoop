@@ -8,7 +8,7 @@ Pictures Link: https://drive.google.com/drive/u/2/folders/1ssZ8SuUYN1haxjPsAh7jh
 
 Time: approximately 8 hours
 
-Price: approximately $40
+Price: approximately $105
 
 A system that be attached o any basketball mini hoop, and proceeds to count all shot attempts as well as shots made. 
 In total this leads to a "Field-Goal Percentage" which will be displayed to the right of the shots made and total shots counter. 
