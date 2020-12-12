@@ -11,14 +11,14 @@ A system that is attached to the basketball mini hoop, and proceeds to count all
 Challenges:
 
 The first challenge was to make sure the hoop accounted for the fact that the basketball could bounce around the rim for an amount of time and then fall in. A time interval had to be set up to give a delay between the first bounce on the rim and the ball going in or missing.
-The second challenge was to create an effective way to put up the entire system since there are not any optimal points for sensors or the display. A box was used for the various switches and display and the sensors were all glued onto the rim. The net on the rim had to be torn up slightly for the distance sensor to have a clear "view" of the ball.
+The second challenge was to create an effective way to put up the entire system together since there are not any optimal points for sensors or the display. A box was used for the various switches, the display and the sensors, all of which were glued onto the rim. The net on the rim had to be torn up slightly for the distance sensor to have a clear "view" of the ball.
 
 Lessons:
 
-This project was very helpful in learning how to coordinate various sensors together effectively. Putting together another system such as this was very difficult but also rewarding. The complexity of taking into different ways the ball can go into the hoop really tested by critical thinking and pushed me to be creative with the code.
+This project was very helpful in learning how to coordinate various sensors together effectively. Putting together a system in this way was very difficult but also rewarding. The complexity of taking into account the different ways the ball can go into the hoop really tested by critical thinking and pushed me to be creative with the code.
 
 Possible Improvements:
 
-The Distance Sensor could have been better projected since a lot of the time the ball is directly hitting the sensor shifting it slightly. maybe a little projective casing would have helped to make it more secure.
+The Distance Sensor could have been better protected since a lot of the time the ball was directly hitting the sensor shifting it slightly, maybe a little protective casing would have helped make it more secure.
 
 
