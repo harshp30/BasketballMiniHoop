@@ -4,7 +4,9 @@ October 2020
 
 Youtube Demonstration: https://www.youtube.com/watch?v=VsOM16-T-PU
 
-Pictures Link: https://drive.google.com/drive/u/2/folders/1ssZ8SuUYN1haxjPsAh7jhmlVfP83LuEI
+Extra Images Link: https://drive.google.com/drive/u/2/folders/1ssZ8SuUYN1haxjPsAh7jhmlVfP83LuEI
+
+![](Images/filename20200425_211410.png)
 
 A system that is attached to the basketball mini hoop, which counts all the shot attempts as well as shots made. In total, this leads to a "Field-Goal Percentage" which will be displayed to the right of the shots made and total shots counter. All the tracking is handled by two individual sensors, the HC-SR04 (Ultrasonic distance sensor) and the MPU-6050 (accelerometer and gyro). These two sensors track all the shots taken, whether it went into the hoop or not. Together with some code, this system can track your overall shots on (in this case) a basketball mini hoop. All this information is conveniently displayed on the LCD screen visible at the top of the system. I also added two extra features, one being a push-button that rests the systems count. This button when pressed prompts the user on the screen by reading "RESET" and sets both shots made and attempted to 0. The other feature, which is quite necessary is the toggle on-off switch. This is essential since the entire system is run on batteries it is important to turn off the system, when not in use, to ensure battery life is sufficient. The on-off switch is a physical switch rather than a digital one, which ensures the sensors, Arduino, and LCD screen are not consuming power when off.
 
